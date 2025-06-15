@@ -22,7 +22,7 @@ A simple HTML and JavaScript application that counts how many times a user switc
 
 ## 🖼️ Preview
 
-![Screenshot](screenshot.png) <!-- Optional if you have an image -->
+![Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1750020124/active_tab.png) <!-- Optional if you have an image -->
 
 ## 📄 License
 
